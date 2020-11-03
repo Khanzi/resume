@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.5.17)  2 NOV 2020 16:06
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.5.17)  3 NOV 2020 10:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/kahlil/Documents/Awesome-CV/examples/resume
-(/home/kahlil/Documents/Awesome-CV/examples/resume.tex
+**/home/kahlil/Documents/Resume/Resume
+(/home/kahlil/Documents/Resume/Resume.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (./awesome-cv.cls
 Document Class: awesome-cv 2017/02/05 v1.6.1 Awesome Curriculum Vitae Class
@@ -240,13 +240,13 @@ LaTeX Info: Redefining \] on input line 2860.
 \g__um_fonts_used_int=\count277
 \l__um_primecount_int=\count278
 \g__um_primekern_muskip=\muskip17
- (/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex))) (./fontawesome.sty
-Package: fontawesome 2016/11/23 v4.7.0 font awesome icons
-) (/usr/share/texlive/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
-Package: sourcesanspro 2016/12/03 v2.6 Adobe's Source Sans Pro typeface
+ (/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex))) (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesome.sty
+Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
  (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex) (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex)) (/usr/share/texlive/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
+Package: sourcesanspro 2016/12/03 v2.6 Adobe's Source Sans Pro typeface
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
  (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks24
@@ -592,6 +592,51 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip81
 )
 
+./awesome-cv.cls:166: Package fontspec Error: The font "FontAwesome" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.166 \newfontfamily
+                    \headerfont[
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:166: Package fontspec Error: The font "FontAwesome" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.166 \newfontfamily
+                    \headerfont[
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:166: Package fontspec Error: The font "FontAwesome" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.166 \newfontfamily
+                    \headerfont[
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
 ./awesome-cv.cls:166: LaTeX3 Error: Command '\FA' already defined!
 
 For immediate help type H <return>.
@@ -606,9 +651,279 @@ definition.
 The existing definition of '\FA' will not be altered.
 
 
+
+./awesome-cv.cls:173: Package fontspec Error: The font "Roboto-Regular" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.173 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:173: Package fontspec Error: The font "Roboto-Regular" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.173 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:173: Package fontspec Error: The font "Roboto-Regular" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.173 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:173: Package fontspec Error: The font "Roboto-Bold" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.173 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:173: Package fontspec Error: The font "Roboto-Bold" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.173 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:173: Package fontspec Error: The font "Roboto-Italic" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.173 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:173: Package fontspec Error: The font "Roboto-Italic" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.173 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:173: Package fontspec Error: The font "Roboto-BoldItalic" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.173 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:173: Package fontspec Error: The font "Roboto-BoldItalic" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.173 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:181: Package fontspec Error: The font "Roboto-Thin" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.181 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:181: Package fontspec Error: The font "Roboto-Thin" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.181 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:181: Package fontspec Error: The font "Roboto-Thin" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.181 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:181: Package fontspec Error: The font "Roboto-Medium" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.181 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:181: Package fontspec Error: The font "Roboto-Medium" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.181 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:181: Package fontspec Error: The font "Roboto-ThinItalic" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.181 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:181: Package fontspec Error: The font "Roboto-ThinItalic" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.181 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:181: Package fontspec Error: The font "Roboto-MediumItalic" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.181 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./awesome-cv.cls:181: Package fontspec Error: The font "Roboto-MediumItalic" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.181 
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
 )
-No file resume.aux.
-\openout1 = `resume.aux'.
+No file Resume.aux.
+\openout1 = `Resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
 LaTeX Font Info:    ... okay on input line 67.
@@ -719,7 +1034,7 @@ LaTeX Info: Redefining \ref on input line 67.
 LaTeX Info: Redefining \pageref on input line 67.
 LaTeX Info: Redefining \nameref on input line 67.
 \@outlinefile=\write6
-\openout6 = `resume.out'.
+\openout6 = `Resume.out'.
 
 
 
@@ -739,10 +1054,203 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 7.66417pt on input line 71.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.47441pt on input line 71.
+/home/kahlil/Documents/Resume/Resume.tex:71: Font TU/Roboto(1)/m/n/32=[fonts/Roboto-Thin]/OT at 32.0pt not loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.71 \makecvheader[C]
+                     
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no K in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+/home/kahlil/Documents/Resume/Resume.tex:71: Font TU/Roboto(0)/m/n/32=[fonts/Roboto-Regular]/OT at 32.0pt not loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.71 \makecvheader[C]
+                     
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+/home/kahlil/Documents/Resume/Resume.tex:71: Font TU/Roboto(0)/b/n/32=[fonts/Roboto-Bold]/OT at 32.0pt not loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.71 \makecvheader[C]
+                     
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no W in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 7.6pt on input line 71.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
 (Font)              scaled to size 7.6pt on input line 71.
+/home/kahlil/Documents/Resume/Resume.tex:71: Font TU/Roboto(0)/m/n/8=[fonts/Roboto-Regular]/OT at 8.0pt not loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.71 \makecvheader[C]
+                     
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+/home/kahlil/Documents/Resume/Resume.tex:71: Font TU/Roboto(0)/m/it/8=[fonts/Roboto-Italic]/OT at 8.0pt not loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.71 \makecvheader[C]
+                     
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no A in font nullfont!
+/home/kahlil/Documents/Resume/Resume.tex:71: Font TU/Roboto(0)/m/n/6.8=[fonts/Roboto-Regular]/OT at 6.8pt not loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.71 \makecvheader[C]
+                     
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 5 in font nullfont!
 
 Overfull \hbox (1.46pt too wide) in paragraph at lines 71--72
 []$[]$ $[]$$[]$
@@ -804,26 +1312,26 @@ Overfull \hbox (116.85793pt too wide) in alignment at lines 10--33
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
- (./resume.aux)
+ (./Resume.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 96.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
 
 
-Package rerunfilecheck Warning: File `resume.out' has changed.
+Package rerunfilecheck Warning: File `Resume.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `resume.out':
+Package rerunfilecheck Info: Checksums for `Resume.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31969 strings out of 479819
- 629278 string characters out of 5895846
- 1067736 words of memory out of 5000000
- 48546 multiletter control sequences out of 15000+600000
- 536328 words of font info for 111 fonts, out of 8000000 for 9000
+ 31869 strings out of 479819
+ 626970 string characters out of 5895846
+ 1062054 words of memory out of 5000000
+ 48461 multiletter control sequences out of 15000+600000
+ 536160 words of font info for 90 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,12n,109p,836b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,12n,109p,823b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.pdf (1 page).
+Output written on Resume.pdf (1 page).
